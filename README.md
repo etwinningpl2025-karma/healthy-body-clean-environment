@@ -1,49 +1,45 @@
 README.md
-![Banner](13F4369E-0D22-47DB-9980-1BB8067B2C81.PNG)
- 🌱 Healthy Body and Clean Environment Project  
- 🌱 Sağlıklı Beden ve Temiz Çevre Projesi  
 
- 🇹🇷 Türkçe
+ ![Banner](13F4369E-0D22-47DB-9980-1BB8067B2C81.PNG)
 
-📌 Proje Hakkında
+🌱 Healthy Body and Clean Environment
+
+ 🌍 eTwinning Project
+
+ 🇹🇷 Proje Hakkında
 Bu proje, öğrencilerde sağlıklı yaşam alışkanlıkları ve çevre bilinci oluşturmayı amaçlamaktadır.  
 eTwinning kapsamında yürütülen uluslararası bir projedir.
 
  🎯 Amaçlarımız
-- Sağlıklı yaşam bilinci kazandırmak  
-- Çevre temizliği konusunda farkındalık oluşturmak  
-- Geri dönüşüm alışkanlıklarını geliştirmek  
-- Uluslararası iş birliği sağlamak  
+- 🥗 Sağlıklı yaşam bilinci kazandırmak  
+- ♻️ Çevre temizliği konusunda farkındalık oluşturmak  
+- 🌱 Geri dönüşüm alışkanlıklarını geliştirmek  
+- 🤝 Uluslararası iş birliği sağlamak  
 
- 🗂️ İçerikler
-- 📁 Aktiviteler  
-- 📁 Fotoğraflar  
-- 📁 Aylık raporlar  
-- 📁 Öğrenci çalışmaları  
-- 📁 Anketler  
+ 📂 İçerikler
+
+| Bölüm | Açıklama |
+|------|--------|
+| 📸 Fotoğraflar | Proje etkinlik görselleri |
+| 🗂 Aktiviteler | Yapılan çalışmalar |
+| 📅 Timeline | Süreç takibi |
+| 🧑‍🎓 Öğrenci çalışmaları | Ürünler |
+| 📊 Anketler | Değerlendirmeler |
 
  💚 Slogan
-"Sağlıklı birey, temiz çevre!"
+“Sağlıklı birey, temiz çevre!
 
- 🇬🇧 English
+🌍 English
 
-📌 About the Project
-This project aims to raise awareness about healthy living and environmental cleanliness among students.  
-It is an international project carried out within the scope of eTwinning.
+ About the Project
+This project aims to promote healthy lifestyle habits and environmental awareness among students.  
+It is an international project carried out within eTwinning.
 
  🎯 Objectives
-- To promote healthy lifestyle habits  
-- To raise awareness about environmental cleanliness  
-- To develop recycling habits  
-- To ensure international cooperation  
-
- 🗂️ Contents
-- 📁 Activities  
-- 📁 Photos  
-- 📁 Monthly reports  
-- 📁 Student works  
-- 📁 Surveys  
+- Promote healthy lifestyle habits  
+- Raise environmental awareness  
+- Develop recycling habits  
+- Ensure international collaboration  
 
  💚 Motto
-"Healthy individuals, clean environment!"
-
+“Healthy individuals, clean environment!”
