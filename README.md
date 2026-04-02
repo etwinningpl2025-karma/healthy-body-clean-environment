@@ -1,5 +1,5 @@
 README.md
-![Banner](https://github.com/etwinningpl2025-karma/healthy-body-clean-environment/blob/main/399922FE-E0D4-47C7-8113-7C4FD16F2F77.PNG?raw=true)
+![Banner](399922FE-E0D4-47C7-8113-7C4FD16F2F77.PNG)
  🌱 Healthy Body and Clean Environment Project  
  🌱 Sağlıklı Beden ve Temiz Çevre Projesi  
 
