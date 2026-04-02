@@ -53,8 +53,27 @@ Section	Description
 🧑‍🎓 Student Work	Outputs / Products
 📊 Surveys	Evaluations
 
-## Photos
+## 📸 Project Photos
 
-![Etkinlik 1](1.png)
-![Etkinlik 2](2.png)
-![Etkinlik 3](3.png)
+<p align="center">
+  <img src="1.png" width="250"/>
+  <img src="2.png" width="250"/>
+  <img src="3.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="4.png" width="250"/>
+  <img src="5.png" width="250"/>
+  <img src="6.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="7.png" width="250"/>
+  <img src="8.png" width="250"/>
+  <img src="9.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="10.png" width="250"/>
+  <img src="11.png" width="250"/>
+</p>
