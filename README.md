@@ -44,5 +44,12 @@ It is an international project carried out within eTwinning.
  💚 Motto
 “Healthy individuals, clean environment!”
 
+📂 Contents
 
+Section	Description
+📸 Photos	Project event visuals
+🗂 Activities	Activities carried out
+📅 Timeline	Process tracking
+🧑‍🎓 Student Work	Outputs / Products
+📊 Surveys	Evaluations
 
