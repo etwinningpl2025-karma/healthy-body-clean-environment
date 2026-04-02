@@ -43,49 +43,6 @@ It is an international project carried out within eTwinning.
 
  💚 Motto
 “Healthy individuals, clean environment!”
----
 
-## 📸 Project Gallery | Proje Galerisi
-
-### 🇹🇷 Türkçe
-Aşağıda proje çalışmalarına ait görseller ve belgeler yer almaktadır.
-
-### 🇬🇧 English
-Below you can find the visuals and documents related to the project activities.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="PHOTO 1. Plastik Bir Şişe ve Bir Ağaç Arasında.pdf">
-        📄 Fotoğraf 1
-      </a>
-      <br>
-      <sub>Plastik şişe ve ağaç etkinliği</sub>
-    </td>
-    <td align="center">
-      <a href="PHOTO 2.pdf.pdf">
-        📄 Fotoğraf 2
-      </a>
-      <br>
-      <sub>Proje çalışması</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="PHOTO 3.pdf">
-        📄 Fotoğraf 3
-      </a>
-      <br>
-      <sub>Etkinlik belgesi</sub>
-    </td>
-    <td align="center">
-      <a href="PHOTO 4.pdf">
-        📄 Fotoğraf 4
-      </a>
-      <br>
-      <sub>Proje çıktısı</sub>
-    </td>
-  </tr>
-</table>
 
 
