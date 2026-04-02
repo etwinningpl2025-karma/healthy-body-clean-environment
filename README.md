@@ -53,3 +53,8 @@ Section	Description
 🧑‍🎓 Student Work	Outputs / Products
 📊 Surveys	Evaluations
 
+## Photos
+
+![Etkinlik 1](1.png)
+![Etkinlik 2](2.png)
+![Etkinlik 3](3.png)
