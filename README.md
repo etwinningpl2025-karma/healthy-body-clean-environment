@@ -77,7 +77,7 @@ Section	Description
   <img src="images/10.png" width="250"/>
   <img src="images/11.png" width="250"/>
 </p>
-## 🤝 Project Partners
+🤝 Project Partners
 
 This project is carried out in collaboration with the following schools:
 
@@ -95,10 +95,16 @@ This project is carried out in collaboration with the following schools:
  🇷🇴 Romania
 - Liceul "Regina Maria"  
 - Nicolae Titulescu High School Medgidia  
-- Liceul Tehnologic "Dimitrie Bolintineanu"
+- Liceul Tehnologic "Dimitrie Bolintineanu
   
  🇭🇷 Croatia
 - Srednja Skola Zlatar  
 
  🇱🇻 Latvia
 - Zemgale Secondary School
+
+Project Videos
+
+Here is our activity video:
+
+https://github.com/kullaniciadi/repo-adi/blob/main/videos/VIDEO-2026-03-12-10-52-50.mp4
