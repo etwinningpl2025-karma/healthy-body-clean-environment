@@ -90,13 +90,13 @@ This project is carried out in collaboration with the following schools:
 - Didim Yenihisar Anatolian High School  
 - Artuklu Anatolian Imam Hatip High School  
 - Private MEF High School  
-- Şehit Gültekin Tınaz Vocational and Technical Anatolian High School  
+- Şehit Gültekin Tırpan Vocational and Technical Anatolian High School  
 
  🇷🇴 Romania
 - Liceul "Regina Maria"  
-- Scoala Gimnaziala "Spiru Haret" Medgidia  
-- Liceul Tehnologic "Dimitrie Bolintineanu"  
-
+- Nicolae Titulescu High School Medgidia  
+- Liceul Tehnologic "Dimitrie Bolintineanu"
+  
  🇭🇷 Croatia
 - Srednja Skola Zlatar  
 
