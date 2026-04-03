@@ -77,6 +77,24 @@ Section	Description
   <img src="images/10.png" width="250"/>
   <img src="images/11.png" width="250"/>
 </p>
+
+# 🎙️ Podcast Videos
+
+Here are my podcast episodes:
+
+## 🎧 Episode 1
+https://youtu.be/p0A76O3L_9U
+
+## 🎧 Episode 2
+https://youtu.be/BoJiAB4RNd8
+
+## 🎧 Episode 3
+https://youtu.be/PVU8xMkfU6M
+
+## 🎧 Episode 4
+https://youtu.be/Zam0o73m0vY
+
+
 🤝 Project Partners
 
 This project is carried out in collaboration with the following schools:
