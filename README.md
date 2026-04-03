@@ -121,6 +121,10 @@ Project videos
 [![Watch](https://img.youtube.com/vi/boes_FiKP80/0.jpg)](https://youtu.be/boes_FiKP80)
 
 
+PODCAST
+
+[![Podcast](https://img.youtube.com/vi/GmZ-PgrnUoY/0.jpg)](https://youtu.be/GmZ-PgrnUoY)
+
 
 
 
