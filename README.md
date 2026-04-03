@@ -105,6 +105,6 @@ This project is carried out in collaboration with the following schools:
 
 Project Videos
 
-Here is our activity video:
+[![Watch the video](https://img.youtube.com/vi/j9aEvWrKehU/0.jpg)](https://youtu.be/j9aEvWrKehU)
 
 
