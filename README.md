@@ -101,4 +101,4 @@ This project is carried out in collaboration with the following schools:
 - Srednja Skola Zlatar  
 
  🇱🇻 Latvia
-- Zemgale Secondary Schoo
+- Zemgale Secondary School
