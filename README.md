@@ -125,6 +125,12 @@ PODCAST
 
 [![Podcast](https://img.youtube.com/vi/GmZ-PgrnUoY/0.jpg)](https://youtu.be/GmZ-PgrnUoY)
 
+## 🏃‍♂️ Spor Aktivitesi 
+
+[Spor Aktivitesi](https://youtu.be/1F8dmtZMFX
+
+
+
 
 
 
