@@ -77,4 +77,28 @@ Section	Description
   <img src="images/10.png" width="250"/>
   <img src="images/11.png" width="250"/>
 </p>
+## 🤝 Project Partners
 
+This project is carried out in collaboration with the following schools:
+
+🇹🇷 Turkey
+- Haydarpaşa High School  
+- Aydem Science High School  
+- Ankara TVF Sports High School  
+- Gönen Science High School  
+- Kırıkkale Atatürk Anatolian High School  
+- Didim Yenihisar Anatolian High School  
+- Artuklu Anatolian Imam Hatip High School  
+- Private MEF High School  
+- Şehit Gültekin Tınaz Vocational and Technical Anatolian High School  
+
+ 🇷🇴 Romania
+- Liceul "Regina Maria"  
+- Scoala Gimnaziala "Spiru Haret" Medgidia  
+- Liceul Tehnologic "Dimitrie Bolintineanu"  
+
+ 🇭🇷 Croatia
+- Srednja Skola Zlatar  
+
+ 🇱🇻 Latvia
+- Zemgale Secondary Schoo
