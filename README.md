@@ -103,11 +103,20 @@ This project is carried out in collaboration with the following schools:
  🇱🇻 Latvia
 - Zemgale Secondary School
 
-Project Videos
+Project videos
 
-[![Watch the video](https://img.youtube.com/vi/j9aEvWrKehU/0.jpg)](https://youtu.be/j9aEvWrKehU)
+### Video 1
+[![Watch](https://img.youtube.com/vi/j9aEvWrKehU/0.jpg)](https://youtu.be/j9aEvWrKehU)
 
-[![Watch the video](https://img.youtube.com/vi/RFD6XFoEpt8/0.jpg)](https://youtu.be/RFD6XFoEpt8)
+### Video 2
+[![Watch](https://img.youtube.com/vi/RFD6XFoEpt8/0.jpg)](https://youtu.be/RFD6XFoEpt8)
 
-[![Watch the video](https://img.youtube.com/vi/oZfsowspw_0/0.jpg)](https://youtu.be/oZfsowspw_0)
+### Video 3
+[![Watch](https://img.youtube.com/vi/oZfsowspw_0/0.jpg)](https://youtu.be/oZfsowspw_0)
+
+### Video 4
+[![Watch](https://img.youtube.com/vi/vNvuv45iwwI/0.jpg)](https://youtu.be/vNvuv45iwwI)
+
+
+
 
