@@ -156,6 +156,12 @@ Short Video 2
  Instagram Reel
 [👉 Watch on Instagram](https://www.instagram.com/reel/DQHxOjmiI7x/)
 
+🌐 Project Platforms
+
+🔗 [GitHub Page](https://github.com/etwinningpl2025-karma/healthy-body-clean-environment)  
+🔗 [YouTube Channel](https://youtube.com/@healthybodyandcleanenvironment)  
+🔗 [Linktree](https://linktr.ee/HealthyBodyandCleanEnvironment)
+
 
 
 
