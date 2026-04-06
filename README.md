@@ -143,6 +143,14 @@ PODCAST
 
 [![Podcast](https://img.youtube.com/vi/GmZ-PgrnUoY/0.jpg)](https://youtu.be/GmZ-PgrnUoY)
 
+🎥 Shorts / Highlights
+
+Short Video 1
+[![Watch](https://img.youtube.com/vi/RKqT_uLYbSE/0.jpg)](https://youtube.com/shorts/RKqT_uLYbSE)
+
+Short Video 2
+[![Watch](https://img.youtube.com/vi/FHpio03YmJA/0.jpg)](https://youtube.com/shorts/FHpio03YmJA)
+
 
 
 
