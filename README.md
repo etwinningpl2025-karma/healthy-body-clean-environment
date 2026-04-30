@@ -179,6 +179,11 @@ Short Video 2
 ![Görsel 13](13.jpeg)
 ![Görsel 14](14.png)
 
+## Proje Arşivi ve Ek Çalışmalar
+
+![Ek Görsel 1](JOINT%20PROJECT/1.png)
+![Ek Görsel 2](JOINT%20PROJECT%20kopyası/1.png)
+
 
 
 
