@@ -162,7 +162,7 @@ Short Video 2
 🔗 [YouTube Channel](https://youtube.com/@healthybodyandcleanenvironment)  
 🔗 [Linktree](https://linktr.ee/HealthyBodyandCleanEnvironment)
 
-
+![Haydarpaşa High School Project Logo](images/proje-logo.png)
 
 
 
