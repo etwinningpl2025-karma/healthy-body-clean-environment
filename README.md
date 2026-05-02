@@ -179,6 +179,7 @@ Short Video 2
 ![Görsel 13](13.jpeg)
 ![Görsel 14](14.png)
 
+
 ## Project Partners & Posters
 
 | Srednja škola Zlatar | Private MEF High School | Artuklu Anadolu İmam Hatip | Zemgale Secondary School |
@@ -192,6 +193,7 @@ Short Video 2
 | Liceul Regina Maria | TVF Spor Lisesi | Aydem Fen Lisesi | Haydarpaşa Lisesi |
 | :---: | :---: | :---: | :---: |
 | <img src="LİCEUL REGİNA.png" width="160"> | <img src="TVF.png" width="160"> | <img src="aydem.png" width="160"> | <img src="haydarpaşa high school.png" width="160"> |
+
 
 
 
