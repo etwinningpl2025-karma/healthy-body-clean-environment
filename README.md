@@ -179,6 +179,21 @@ Short Video 2
 ![Görsel 13](13.jpeg)
 ![Görsel 14](14.png)
 
+## Project Partners & Posters
+
+| Srednja škola Zlatar | Private MEF High School | Artuklu Anadolu İmam Hatip | Zemgale Secondary School |
+| :---: | :---: | :---: | :---: |
+| <img src="SREDNA.png" width="160"> | <img src="MEF.png" width="160"> | <img src="ARTUKLU.png" width="160"> | <img src="ZEMGALE.png" width="160"> |
+
+| Şehit Gültekin Tırpan MTAL | Yenihisar Anadolu Lisesi | Kırıkkale Atatürk Anadolu Lisesi | Gönen Fen Lisesi |
+| :---: | :---: | :---: | :---: |
+| <img src="ŞEHİT-2.png" width="160"> | <img src="DİDİM.png" width="160"> | <img src="KIRIKKKALE.png" width="160"> | <img src="GÖNEN.png" width="160"> |
+
+| Liceul Regina Maria | TVF Spor Lisesi | Aydem Fen Lisesi | Haydarpaşa Lisesi |
+| :---: | :---: | :---: | :---: |
+| <img src="LİCEUL REGİNA.png" width="160"> | <img src="TVF.png" width="160"> | <img src="aydem.png" width="160"> | <img src="haydarpaşa high school.png" width="160"> |
+
+
 
 
 
