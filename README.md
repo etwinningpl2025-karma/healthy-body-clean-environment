@@ -189,6 +189,11 @@ Short Video 2
 | :---: | :---: | :---: | :---: |
 | <img src="TVF.png" width="160"> | <img src="Haydarpasa%20.png" width="160"> | <img src="Gonen%20.png" width="160"> | <img src="aydem.png" width="160"> |
 
+| Srednja škola Zlatar | Private MEF High School | Artuklu Anadolu İmam Hatip | Zemgale Secondary School |
+| :---: | :---: | :---: | :---: |
+| <img src="SREDNA.png" width="160"> | <img src="MEF.png" width="160"> | <img src="ARTUKLU.png" width="160"> | <img src="ZEMGALE.png" width="160"> |
+
+
 
 
 
