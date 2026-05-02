@@ -179,6 +179,17 @@ Short Video 2
 ![Görsel 13](13.jpeg)
 ![Görsel 14](14.png)
 
+## Project Partners & Posters
+
+| Şehit Gültekin Tırpan MTAL | Kırıkkale Atatürk Anadolu Lisesi | Liceul Regina Maria | Yenihisar Anadolu Lisesi |
+| :---: | :---: | :---: | :---: |
+| <img src="Sehit%20.png" width="160"> | <img src="Kirikkale%20.png" width="160"> | <img src="Liceul.png" width="160"> | <img src="DiDiM.png" width="160"> |
+
+| TVF Spor Lisesi | Haydarpaşa Lisesi | Gönen Fen Lisesi | Aydem Fen Lisesi |
+| :---: | :---: | :---: | :---: |
+| <img src="TVF.png" width="160"> | <img src="Haydarpasa%20.png" width="160"> | <img src="Gonen%20.png" width="160"> | <img src="aydem.png" width="160"> |
+
+
 
 
 
