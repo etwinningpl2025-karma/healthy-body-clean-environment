@@ -183,7 +183,10 @@ Short Video 2
 
 | Şehit Gültekin Tırpan MTAL | Kırıkkale Atatürk Anadolu Lisesi | Liceul Regina Maria | Yenihisar Anadolu Lisesi |
 | :---: | :---: | :---: | :---: |
-| <img src="Sehit%20.png" width="160"> | <img src="Kirikkale%20.png" width="160"> | <img src="Liceul.png" width="160"> | <img src="DiDiM.png" width="160"> |
+| <img src="Sehit%20.png" width="160"> | <img src="Kirikkale%20.png" width="160"> | <img src="Liceul.png" width="160"> | <| Yenihisar Anadolu Lisesi |
+| :---: |
+| <img src="DiDiM.png" width="160"> |
+
 
 | TVF Spor Lisesi | Haydarpaşa Lisesi | Gönen Fen Lisesi | Aydem Fen Lisesi |
 | :---: | :---: | :---: | :---: |
