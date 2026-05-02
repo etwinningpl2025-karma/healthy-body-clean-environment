@@ -179,7 +179,6 @@ Short Video 2
 ![Görsel 13](13.jpeg)
 ![Görsel 14](14.png)
 
-
 ## Project Partners & Posters
 
 | Srednja škola Zlatar | Private MEF High School | Artuklu Anadolu İmam Hatip | Zemgale Secondary School |
