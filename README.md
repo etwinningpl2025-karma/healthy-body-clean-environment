@@ -191,6 +191,24 @@ Short Video 2
 | :---: | :---: | :---: | :---: |
 | <img src="SREDNA.png" width="160"> | <img src="MEF.png" width="160"> | <img src="ARTUKLU.png" width="160"> | <img src="ZEMGALE.png" width="160"> |
 
+# 💡 Project Brainstorming
+
+This section highlights the collaborative brainstorming and creative contributions from our international partner schools.
+
+## 🧠 Collaborative Ideation
+Our project thrives on the shared ideas and visual contributions of students and teachers from various institutions.
+
+| Partner School | Brainstorming Output |
+| :--- | :---: |
+| **Haydarpaşa High School** | ![Haydarpaşa Brainstorming](Brainstorming%20by%20haydarpasa%20high%20school.png) |
+| **Liceul Regina Maria** | ![Liceul Regina Maria Brainstorming](brainstorming%20by%20Liseul%20Regina%20Maria.png) |
+| **Gönen Science High School** | ![Gönen Brainstorming](Brainstroming%20by%20gönen%20scinece%20high%20School.png) |
+| **Kırıkkale Atatürk Anatolian High School** | ![Kırıkkale Atatürk Brainstorming](kırıkkale%20Atatürk%20Anatolian%20High%20School.png) |
+| **Haydarpaşa High School (General)** | ![Haydarpaşa High School](Haydarpasa%20high%20school.png) |
+
+---
+> *This collaborative effort is part of our commitment to fostering international partnerships and innovative educational practices.*
+
 
 
 
