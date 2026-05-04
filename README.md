@@ -191,6 +191,26 @@ Short Video 2
 | :---: | :---: | :---: | :---: |
 | <img src="SREDNA.png" width="160"> | <img src="MEF.png" width="160"> | <img src="ARTUKLU.png" width="160"> | <img src="ZEMGALE.png" width="160"> |
 
+# 💡 BRAINSTORMING
+
+This section presents the collaborative brainstorming and creative ideation phase of our international project, featuring contributions from our partner schools.
+
+## 🧠 International Collaborative Contributions
+Our project, **Healthy Body and Clean Environment**, is built on shared ideas and cross-border cooperation.
+
+| Partner School | Activity Output |
+| :--- | :---: |
+| **HAYDARPASA High School** | ![HAYDARPAŞA Brainstorming](Brainstorming%20by%20HAYDARPASA%20high%20school.png) |
+| **Liceul Regina Maria** | ![Regina Maria Brainstorming](brainstorming%20by%20Liseul%20Regina%20Maria.png) |
+| **Gönen Science High School** | ![Gönen Brainstorming](Brainstroming%20by%20gonen%20scinece%20high%20School.png) |
+| **Kırıkkale Atatürk Anatolian High School** | ![Kırıkkale Atatürk](Kirikkale%20Ataturk%20Anatolian%20High%20School.png) |
+| **HAYDARPASA High School (Main)** | ![HAYDARPASA Logo](HAYDARPASA%20HİGH%20SCHOOL.png) |
+
+---
+### 🏫 Project Context
+* **Coordinator**: Mediha Tabak, Physical Education Teacher.
+* **Institutional Support**: Haydarpaşa Lisesi, Istanbul (eTwinning School).
+* **Focus**: Promoting healthy lifestyles and environmental awareness through digital integration and international teamwork.
 
 
 
