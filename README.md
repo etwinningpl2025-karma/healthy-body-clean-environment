@@ -206,11 +206,15 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 | **Kırıkkale Atatürk Anatolian High School** | ![Kırıkkale Atatürk](Kirikkale%20Ataturk%20Anatolian%20High%20School.png) |
 | **HAYDARPASA High School (Main)** | ![HAYDARPASA Logo](HAYDARPASA%20HİGH%20SCHOOL.png) |
 
----
+--- 
 ### 🏫 Project Context
 * **Coordinator**: Mediha Tabak, Physical Education Teacher.
 * **Institutional Support**: Haydarpaşa Lisesi, Istanbul (eTwinning School).
 * **Focus**: Promoting healthy lifestyles and environmental awareness through digital integration and international teamwork.
+
+**eTwinning Day Celebration at Haydarpaşa High School:** [https://youtu.be/u0bUC4RfkQg?si=kNbogqFgnP-566OC](https://youtu.be/u0bUC4RfkQg?si=kNbogqFgnP-566OC)
+
+ 
 
 
 
