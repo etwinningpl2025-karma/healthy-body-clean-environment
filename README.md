@@ -232,6 +232,9 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 [▶ Regina Maria Lisesi eTwinning Günü Videosunu İzlemek İçin Tıklayın](https://youtu.be/R8yTTis8Y30)
 
+### 🇹🇷 Mardin Artuklu Anadolu İmam Hatip Lisesi - eTwinning Day
+
+[![Mardin Artuklu Anadolu İmam Hatip Lisesi](https://img.youtube.com/vi/7Ib_8EWD_Z8/maxresdefault.jpg)](https://youtu.be/7Ib_8EWD_Z8)
 
 
 
