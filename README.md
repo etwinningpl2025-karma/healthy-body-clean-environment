@@ -214,6 +214,9 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 * [![Our New Song](https://img.youtube.com/vi/9ETUgjTQhGI/maxresdefault.jpg)](https://youtu.be/9ETUgjTQhGI)
 
+### 🏋️‍♂️ Ankara TVF Sports High School - Plank Challenge
+
+[![Ankara TVF Sports High School Plank Challenge](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_BURAYA/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_BURAYA)
 
 
 
