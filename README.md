@@ -215,8 +215,8 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 **eTwinning Day Celebration at Haydarpaşa High School:** [https://youtu.be/u0bUC4RfkQg?si=kNbogqFgnP-566OC](https://youtu.be/u0bUC4RfkQg?si=kNbogqFgnP-566OC)
  
 
- 
-<video src="hand-in-hand_Jy4EXxhO.mp4" width="100%" controls autoplay muted loop></video>
+<video src="hand-in-hand_Jy4EXxhO.mp4" width="100%" controls></video> 
+
 
 
 
