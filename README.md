@@ -240,6 +240,9 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 [![Project Trailer](https://img.youtube.com/vi/BnWf64ltIK8/maxresdefault.jpg)](https://youtu.be/BnWf64ltIK8)
 
+### 💻 Our Final Meeting - Healthy Body and Clean Environment
+
+[![Our Final Meeting](https://img.youtube.com/vi/iS20KdECiQ4/maxresdefault.jpg)](https://youtu.be/iS20KdECiQ4)
 
 
 
