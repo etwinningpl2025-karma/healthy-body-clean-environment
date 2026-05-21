@@ -220,6 +220,9 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 [![Ankara TVF Sports High School Plank Challenge](https://img.youtube.com/vi/CBJubBe5_S0/maxresdefault.jpg)](https://youtu.be/CBJubBe5_S0)
 
+### ✉️ Didim Yenihisar Anadolu Lisesi - Geleceğe Mektup
+
+[![Didim Yenihisar Anadolu Lisesi Geleceğe Mektup](https://img.youtube.com/vi/ETbDcpPMLjg/maxresdefault.jpg)](https://youtu.be/ETbDcpPMLjg)
 
 
 
