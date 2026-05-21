@@ -228,6 +228,9 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 [![Haydarpaşa High School eTwinning Day: A Letter to the Future](https://img.youtube.com/vi/cal7X_FjBuU/maxresdefault.jpg)](https://youtu.be/cal7X_FjBuU)
 
+### 🇹🇩 Regina Maria High School - eTwinning Day
+
+[![Regina Maria High School eTwinning Day](https://img.youtube.com/vi/R8yTTis8Y30/maxresdefault.jpg)](https://youtu.be/R8yTTis8Y30)
 
 
 
