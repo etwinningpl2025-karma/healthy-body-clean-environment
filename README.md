@@ -236,6 +236,9 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 [![Mardin Artuklu Anadolu İmam Hatip Lisesi](https://img.youtube.com/vi/7Ib_8EWD_Z8/maxresdefault.jpg)](https://youtu.be/7Ib_8EWD_Z8)
 
+### 🎬 Project Trailer - Healthy Body and Clean Environment
+
+[![Project Trailer](https://img.youtube.com/vi/BnWf64ltIK8/maxresdefault.jpg)](https://youtu.be/BnWf64ltIK8)
 
 
 
