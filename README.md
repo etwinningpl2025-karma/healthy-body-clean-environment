@@ -230,8 +230,7 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 ### 🇹🇩 Regina Maria High School - eTwinning Day
 
-[![Regina Maria High School eTwinning Day](https://img.youtube.com/vi/R8yTTis8Y30/maxresdefault.jpg)](https://youtu.be/R8yTTis8Y30)
-
+[▶ Regina Maria Lisesi eTwinning Günü Videosunu İzlemek İçin Tıklayın](https://youtu.be/R8yTTis8Y30)
 
 
 
