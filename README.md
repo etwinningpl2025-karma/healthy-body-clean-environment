@@ -224,6 +224,9 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 [![Didim Yenihisar Anadolu Lisesi Geleceğe Mektup](https://img.youtube.com/vi/ETbDcpPMLjg/maxresdefault.jpg)](https://youtu.be/ETbDcpPMLjg)
 
+### ✉️ Haydarpaşa High School - A Letter to the Future
+
+[![Haydarpaşa High School eTwinning Day: A Letter to the Future](https://img.youtube.com/vi/cal7X_FjBuU/maxresdefault.jpg)](https://youtu.be/cal7X_FjBuU)
 
 
 
