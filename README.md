@@ -244,19 +244,7 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 [![Our Final Meeting](https://img.youtube.com/vi/iS20KdECiQ4/maxresdefault.jpg)](https://youtu.be/iS20KdECiQ4)
 
-## 🌐 Our Social Media Accounts
 
-Stay connected with us! Scan the QR codes below or click on the icons to visit our official social media pages for **Healthy Body and Clean Environment**.
-
-| Platform | Logo & Link | QR Code |
-| :---: | :---: | :---: |
-| **Instagram** | <a href="https://instagram.com/HEALTHY_NDCLEAN" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/instagram.svg" alt="Instagram" width="40"/></a> | <img src="https://instagram.com/HEALTHY_NDCLEAN" alt="Instagram QR" width="120"/> *(Replace with Instagram QR image link)* |
-| **Facebook** | <a href="https://facebook.com/YOUR_PROFILE" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/facebook.svg" alt="Facebook" width="40"/></a> | <img src="YOUR_FACEBOOK_QR_IMAGE_LINK" alt="Facebook QR" width="120"/> |
-| **X (Twitter)** | <a href="https://x.com/YOUR_PROFILE" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/twitter.svg" alt="X" width="40"/></a> | <img src="YOUR_X_QR_IMAGE_LINK" alt="X QR" width="120"/> |
-| **YouTube** | <a href="https://youtube.com/YOUR_CHANNEL" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/youtube.svg" alt="YouTube" width="45"/></a> | <img src="YOUR_YOUTUBE_QR_IMAGE_LINK" alt="YouTube QR" width="120"/> |
-| **GitHub** | <a href="https://github.com/YOUR_USERNAME" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/github.svg" alt="GitHub" width="40"/></a> | <img src="YOUR_GITHUB_QR_IMAGE_LINK" alt="GitHub QR" width="120"/> |
-
----
 
 
 
