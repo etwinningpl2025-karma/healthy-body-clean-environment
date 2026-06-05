@@ -341,6 +341,51 @@ Based on the scientific background of our movement training, the plank exercise 
 ### 🌟 Healthy Body, Active Minds! 
 *Congratulations to all the sports high school students who took part in this chain challenge!*
 
+# 🌍 different languages, shared dreams... ✨
+
+This repository contains the project activities and celebrations for **Happy eTwinning Day**, prepared by the students of **Mardin Artuklu Anatolian Imam Hatip High School**. 
+
+Through this cultural and linguistic activity, our students highlighted international collaboration, diversity, and the power of growing together.
+
+📺 **[Watch the eTwinning Day Video on YouTube](https://youtu.be/7Ib_8EWD_Z8)**
+
+---
+
+## 🗺️ International Voices (Farklı Diller, Ortak Hayaller)
+
+Students represented different countries by greeting the project partners in their native languages and sharing meaningful project goals:
+
+| Country Flag (Ülke) | Greeting (Selamlaşma) | Message (Mesaj) |
+| :---: | :--- | :--- |
+| 🇹🇷 **Turkey** | Merhaba! | Connect, Teach, Learn, Hello! |
+| 🇫🇷 **France** | Bonjour! | Collaboration makes learning meaningful. |
+| 🇵🇹 **Portugal** | Olá! | Digital tools connect our classrooms. |
+| 🇷🇴 **Romania** | Bună! | Together we are stronger. |
+| 🇪🇸 **Spain** | Hola! | Meet, Greet, and Develop Project! |
+| 🇮🇹 **Italy** | Ciao! | Learning becomes fun with teamwork. |
+| 🇩🇪 **Germany** | Hallo! | Experience shared ideas across borders. |
+| 🇬🇧 **United Kingdom** | Hello! | Internet education shapes distant friendships. |
+
+---
+
+## 🎯 Our Core Mission (eTwinning Vizyonu)
+
+As beautifully stated at the end of our video:
+> **"Together in Diversity, Stronger as One! Better Together!"** 🤝
+> *Learning together, growing together!*
+
+---
+
+## 📸 Activity Breakdown
+
+1. **Cultural Representation:** Students held up flags from different European nations, aligning the physical world with our digital eTwinning network.
+2. **Linguistic Unity:** Each student delivered a unique motto emphasizing that language barriers disappear when sharing the same educational dreams.
+3. **Grand Finale:** A cheerful group shoutout from all participating students celebrating: **"HAPPY ETWINNING DAY!"** 🎉
+
+---
+### 🌟 Thank You!
+*Special thanks to all students and coordinating teachers at Mardin Artuklu Anatolian Imam Hatip High School for making this inspiring video possible!*
+
 
 
 
