@@ -296,7 +296,50 @@ Below is the complete randomized matrix showing which school creates a challenge
 
 ---
 ### 🌟 Stay Active, Stay Safe, and Protect the Environment!
+# 🏆 Ankara TVF Sports High School - Plank Challenge
 
+This repository documents the **Plank Challenge** activity held at **Ankara TVF Sports High School**, organized as a core movement and physical endurance task within our international eTwinning project. 
+
+The event combined dynamic gymnastic performances with a core-strengthening endurance competition among students.
+
+📺 **[Watch the Plank Challenge Video on YouTube](https://youtu.be/CBJubBe5_S0)**
+
+---
+
+## ⏱️ Challenge Leaderboard (Sonuçlar)
+
+After a fierce and disciplined competition, here are the official time records of our participating athletes:
+
+| Rank (Sıra) | Athlete Name (Sporcu) | Time Record (Derece) | Status (Durum) |
+| :---: | :--- | :---: | :---: |
+| 🥇 **1** | **Özge** 👑 | **02:13+** | **Champion** |
+| 🥈 **2** | Ali Arda | 02:10,87 | Finalist |
+| 🥉 **3** | Buse | 01:52,16 | Finalist |
+| 🎖️ **4** | Azra | 00:59,27 | Participant |
+| 🎖️ **5** | Defne | 00:48,64 | Participant |
+
+---
+
+## 🎯 Why Plank? (Plank Egzersizinin Önemi)
+
+Based on the scientific background of our movement training, the plank exercise provides crucial benefits for youth development:
+
+* **Core Strength:** Although it looks simple, it is a highly effective exercise that works multiple muscle groups simultaneously, especially strengthening the **abdominal, back, and hip muscles**.
+* **Better Posture:** Regular planking helps improve posture and significantly reduces back pain caused by long periods of sitting during school hours.
+* **Practicality:** It requires **no equipment** at all! It can be easily performed anywhere (gym, corridor, garden, or home).
+* **Balance & Health:** Done regularly, it immensely improves physical health, core stability, and body balance.
+
+---
+
+## 📸 Activity Highlights
+
+1. **The Opener:** A professional gymnastic handstand and flip entry to kick off the sports challenge.
+2. **The Discipline:** Five athletes starting simultaneously on the mats under strict referee timing controls.
+3. **The Focus:** Pushing physical limits line by line, demonstrating teamwork, sportsmanship, and high motivation!
+
+---
+### 🌟 Healthy Body, Active Minds! 
+*Congratulations to all the sports high school students who took part in this chain challenge!*
 
 
 
