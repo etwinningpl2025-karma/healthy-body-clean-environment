@@ -244,6 +244,59 @@ Our project, **Healthy Body and Clean Environment**, is built on shared ideas an
 
 [![Our Final Meeting](https://img.youtube.com/vi/iS20KdECiQ4/maxresdefault.jpg)](https://youtu.be/iS20KdECiQ4)
 
+# International Randomized QR Chain Challenge 🏃‍♂️🧼💻
+
+This repository contains the digital table, implementation guide, and instructions for the **International Randomized QR Chain Challenge**, organized as part of our project's **10th February Safe Internet Day** activities. 
+
+The goal of this challenge is to unite our goals for a **Healthy Body**, **Clean Environment**, and **Safe Internet** through an interactive, cross-border digital chain activity between partner schools.
+
+📺 **[Watch the Challenge Video on YouTube](https://youtu.be/patNiq6Tv6s)**
+
+---
+
+## 📋 Implementation Instructions
+
+Follow these 5 simple steps to complete the challenge in your school:
+
+* **STEP 1:** Find your own school in the **Challenge Table** provided below.
+* **STEP 2:** Create a QR code that contains the specific **'task' or digital content** assigned to your target school.
+* **STEP 3:** Hang this QR code in your school garden, gymnasium, or corridor where students can easily access it.
+* **STEP 4 (Activity):** Students will scan the code, complete the physical or digital task, and upload the result (photo/video) to our shared **Canva Wall**.
+* **STEP 5:** Let's unite our goals for a healthy body, clean environment, and safe internet!
+
+---
+
+## 🗺️ International QR Chain Challenge Table
+
+Below is the complete randomized matrix showing which school creates a challenge for which partner.
+
+| Station Creator School (Creates QR) | Challenge Target (Who Solves It) | The Task (QR Content) | Status / Output |
+| :--- | :--- | :---: | :---: |
+| **Haydarpaşa High School (TR)** | Didim Yenihisar High School (TR) | 🔗 *[Scan QR]* | 📸 Planks / Physical Task |
+| **Didim Yenihisar High School (TR)** | Denizli Aydem Science High School (TR) | 🔗 *[Scan QR]* | 📸 Physical Drill |
+| **Denizli Aydem Science High School (TR)** | Ankara TVF Sport High School (TR) | 🔗 *[Scan QR]* | 📸 Digital Task |
+| **Ankara TVF Sport High School (TR)** | Liceul Regina Maria (RO) | 🔗 *[Scan QR]* | 📸 Court Drill |
+| **Liceul Regina Maria (RO)** | Gonen Science High School (TR) | 🔗 *[Scan QR]* | 📸 Collaborative Mind Map |
+| **Gonen Science High School (TR)** | Artuklu Anatolian IHL (TR) | 🔗 *[Scan QR]* | 📸 Poster / Safe Internet |
+| **Artuklu Anatolian IHL (TR)** | Sehit Gultekin Tirpan VTAS (TR) | 🔗 *[Scan QR]* | 📸 Digital Safety Poster |
+| **Sehit Gultekin Tirpan VTAS (TR)** | Private MEF High School (TR) | 🔗 *[Scan QR]* | 📸 Essay / Digital Manifesto |
+| **Private MEF High School (TR)** | Kirikkale Ataturk Anatolian HS (TR) | 🔗 *[Scan QR]* | 📸 Healthy Meal & Nutrition |
+| **Kirikkale Ataturk Anatolian HS (TR)** | Zemgales Vidusskola (LT) | 🔗 *[Scan QR]* | 📸 Safe Tech Classroom |
+| **Zemgales Vidusskola (LT)** | Srednja Škola Zlatar (HR) | 🔗 *[Scan QR]* | 📸 Green Environment |
+| **Srednja Škola Zlatar (HR)** | Nicolae Titulescu High School (RO) | 🔗 *[Scan QR]* | 📸 Eco-friendly Activity |
+| **Nicolae Titulescu HS Medgidia (RO)** | Haydarpaşa High School (TR) | 🔗 *[Scan QR]* | 📸 Gym Activity (Chain Closed) |
+
+---
+
+## 🎯 Project Core Objectives
+
+1.  **Healthy Body:** Encouraging physical activity, endurance (like plank challenges), and proper nutrition.
+2.  **Clean Environment:** Raising awareness about green spaces and school cleanliness.
+3.  **Safe Internet:** Teaching digital safety, QR code safety, and responsible Web 2.0 tool usage (Canva, TwinSpace) on **Safe Internet Day**.
+
+---
+### 🌟 Stay Active, Stay Safe, and Protect the Environment!
+
 
 
 
