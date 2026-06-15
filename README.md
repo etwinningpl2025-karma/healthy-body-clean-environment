@@ -386,6 +386,22 @@ As beautifully stated at the end of our video:
 ### 🌟 Thank You!
 *Special thanks to all students and coordinating teachers at Mardin Artuklu Anatolian Imam Hatip High School for making this inspiring video possible!*
 
+# Healthy Body and Clean Environment — Project Poster
+
+Here is the amazing project poster prepared by our partner school, Srednja škola Zlatar, for our international eTwinning project **"Healthy Body and Clean Environment"**! 🌍✨
+
+From the logo selection in October–November to the sports activities in April, it has been an incredible journey. Huge thanks to all our students and partners for promoting healthy lifestyles and environmental awareness through sports and collaboration! 💪🍎♻️
+
+---
+
+### 🖼️ Project Poster
+![Healthy Body and Clean Environment Project Poster](SREDJNA%20SKOLA%20ZLATAR.png)
+
+---
+
+### 📌 Project Tags
+`#eTwinning` `#HealthyBodyCleanEnvironment` `#StrongerTogether` `#EnvironmentalAwareness` `#HealthyLifestyle` `#SchoolProject` `#ActiveLife`
+
 
 
 
